@@ -1,4 +1,4 @@
-## 👋 Welcome to the repository of my Marvel character selection project! 👨‍👩‍👧‍👦
+## Welcome to the repository of my Marvel character selection project!
 
 ### About the Project
 This project consists of a web page that simulates the character selection screen for a Marvel game. I used HTML, CSS, and JS to build it and make it more interactive. Additionally, I used different CSS styling techniques to create an attractive and responsive interface.
